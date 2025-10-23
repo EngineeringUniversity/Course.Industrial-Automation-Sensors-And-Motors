@@ -1,2 +1,2 @@
-# Course.Industrial-Automation-Sensors-And-Motors-Industrial-Automation-Sensors-and-Motors
+# Course.Industrial-Automation-Sensors-And-Motors
 https://openwa.pressbooks.pub/nehakardam12/
